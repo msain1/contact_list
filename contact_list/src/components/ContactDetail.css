@@ -1,0 +1,52 @@
+.contact-detail {
+    background-color: #d7ecfc;
+    padding: 30px 20px;
+    margin: 40px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  
+  .contact-detail-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333333;
+  }
+  
+  .contact-detail-info {
+    font-size: 17px;
+    margin-bottom: 5px;
+    color: #555555;
+  }
+  
+  .contact-detail-label {
+    font-weight: bold;
+    color: #777777;
+  }
+  
+  .contact-detail-loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    font-size: 20px;
+    color: #555555;
+  }
+  
+  .contact-detail-error {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    font-size: 20px;
+    color: #ff0000;
+  }
+  
+  .contact-detail-not-found {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    font-size: 20px;
+    color: #777777;
+  }
+  

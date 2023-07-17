@@ -1,0 +1,27 @@
+.contact-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 30px;
+  padding: 50px 40px 0;
+}
+
+.no-contacts {
+  text-align: center;
+  font-size: 18px;
+  color: #666666;
+  padding: 20px;
+}
+
+.loading {
+  text-align: center;
+  font-size: 18px;
+  color: #666666;
+  padding: 20px;
+}
+
+.error-message {
+  text-align: center;
+  font-size: 18px;
+  color: #ff0000;
+  padding: 20px;
+}
